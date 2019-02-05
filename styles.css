@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Source+Sans+Pro');
+body {
+	background: orange;
+	color: white;
+}
+a:hover{background: green;
+	color: red}
+a{color: blue;
+font-family: 'Oswald', sans-serif;}
+h1{color: rgb(14, 155, 10);
+font-size: 50pt;
+font-family: 'Source Sans Pro', serif;}
+.indent {margin-left: 33px}
+.sp-bell {margin-bottom: 70px}
